@@ -1,0 +1,1 @@
+# algorithm-for-finding-all-prime
